@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/PostList/PostList.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,YAGC,iBAAkB,CCLpB,UACE,eAAgB","file":"main.8fccbcef.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.App__title {\n  text-align: center;\n}\n",".PostList {\n  list-style: none;\n}\n"]}
